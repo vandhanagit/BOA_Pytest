@@ -1,0 +1,4 @@
+[
+  "test_login.py::test_openBrowser",
+  "test_login.py::test_enter_credentials"
+]
